@@ -1,0 +1,48 @@
+{
+  "_aciklama": "PRO-MAN ERP — Yıllık Yasal Parametreler. Her yıl başı bu dosyayı güncelleyin.",
+  "_son_guncelleme": "2026-01-01",
+  "_format": "Anahtarlar yil (string), degerler parametre_adi: float",
+
+  "2025": {
+    "Asgari Ücret (Brüt)":             26005.50,
+    "Asgari Ücret (Net)":              21842.00,
+    "SGK Taban Ücreti (Brüt)":         26005.50,
+    "SGK Tavan Ücreti (Brüt)":         195041.40,
+    "1. Vergi Dilimi ( %15 ) Sınırı":  158000.0,
+    "2. Vergi Dilimi ( %20 ) Sınırı":  330000.0,
+    "3. Vergi Dilimi ( %27 ) Sınırı":  1200000.0,
+    "1. Derece Engelli İndirimi":       10000.0,
+    "2. Derece Engelli İndirimi":        6000.0,
+    "3. Derece Engelli İndirimi":        3000.0,
+    "Kıdem Tazminatı Tavanı":          54905.61
+  },
+
+  "2026": {
+    "Asgari Ücret (Brüt)":             33030.00,
+    "Asgari Ücret (Net)":              27370.00,
+    "SGK Taban Ücreti (Brüt)":         33030.00,
+    "SGK Tavan Ücreti (Brüt)":         247725.00,
+    "1. Vergi Dilimi ( %15 ) Sınırı":  190000.0,
+    "2. Vergi Dilimi ( %20 ) Sınırı":  400000.0,
+    "3. Vergi Dilimi ( %27 ) Sınırı":  1500000.0,
+    "1. Derece Engelli İndirimi":       12000.0,
+    "2. Derece Engelli İndirimi":        7000.0,
+    "3. Derece Engelli İndirimi":        3000.0,
+    "Kıdem Tazminatı Tavanı":          64948.77
+  },
+
+  "2027": {
+    "_not": "2027 değerleri henüz açıklanmadı — Ocak 2027 başında burası güncellenecek",
+    "Asgari Ücret (Brüt)":             0.0,
+    "Asgari Ücret (Net)":              0.0,
+    "SGK Taban Ücreti (Brüt)":         0.0,
+    "SGK Tavan Ücreti (Brüt)":         0.0,
+    "1. Vergi Dilimi ( %15 ) Sınırı":  0.0,
+    "2. Vergi Dilimi ( %20 ) Sınırı":  0.0,
+    "3. Vergi Dilimi ( %27 ) Sınırı":  0.0,
+    "1. Derece Engelli İndirimi":       0.0,
+    "2. Derece Engelli İndirimi":       0.0,
+    "3. Derece Engelli İndirimi":       0.0,
+    "Kıdem Tazminatı Tavanı":          0.0
+  }
+}
